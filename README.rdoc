@@ -1,8 +1,12 @@
 == README
-This is the finance tracker app from the Complete Ruby on Rails Developer course
+This is the finance tracker 
 
-- Build form
+Features implemented:
 
-- Route -> Search_stocks
+- User interface
 
-- Controller -> action - stocks_controller.rb search_stocks
+- Stocks tracking
+
+- Portfolio Management
+
+- Adding and following friends
